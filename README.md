@@ -19,6 +19,8 @@ Please use "00:00" format without double quotes for any time input.
 <br>
 Because of time constraints and for keeping the project simple I didn't implement broad controls for that.
 <br><br>
+You can find SQL script in SQLScript file.
+<br>
 You can reach me with my mail address burakyavuzcengel@gmail.com for any questions/problems you encounter.
 <br>
 Thank you for your time and good day!
